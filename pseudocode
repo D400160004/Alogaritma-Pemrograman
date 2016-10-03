@@ -1,0 +1,29 @@
+a pow(x,2) + bx +c=0 = (d>0)
+int a
+int b
+int c
+int itungan
+
+VOID  MAIN
+if 
+Write ("masukkan nilai a " );
+Write (scanf (int a) );
+
+Write ("masukkan nilai b " );
+write (scanf (int b);
+
+Write ("Masukkan nilai c ");
+write (scanf int c);
+
+
+itungan = a pow(x,2) + bx + c = 0
+if (true) = 
+write ("a"= (get a);
+write ("b"= (get b);
+write ("c" =(get c);
+
+if (false) =
+exit / reload void main 
+ 
+
+
